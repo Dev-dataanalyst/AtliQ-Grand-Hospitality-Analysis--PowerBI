@@ -45,11 +45,14 @@ This modeling produces a one-to-many relationship.
 
 From the dashboard, the key metrics are at the top.
 
-Note: #### RevPar -Revenue Per Available Room, DSRN - Daily Sellable Room Nights/per night, ADR - Average Daily Rate/Amount per room, DBRN -Daily Booked Room Nights/per night, and DURN - Daily Booked Room Nights/per night, Realization% - The ratio of utilized rooms and booked rooms per night, Occupancy% - Total number of occupied rooms out of the available.
+Note: RevPar -Revenue Per Available Room, DSRN - Daily Sellable Room Nights/per night, ADR - Average Daily Rate/Amount per room, DBRN -Daily Booked Room Nights/per night, and DURN - Daily Booked Room Nights/per night, Realization% - The ratio of utilized rooms and booked rooms per night, Occupancy% - Total number of occupied rooms out of the available.
 
 
+### How much did we generate in the last three months? Show other key metrics that are helpful to the business.
 
+![image](https://github.com/Dev-dataanalyst/AtliQ-Grand-Hospitality-Analysis--PowerBI/assets/143479964/31dd74b5-6315-45b6-8d8c-e5d0e8a7eb08)
 
+Within the period of three months, the business was able to generate a revenue of 1.71 billion. The occupancy rate across all locations is slightly above 50%,(57.9%). This means that on average, at least 50% of the rooms are utilized daily. The average selling price for a room is 12.69K while RevPar equals 7,347. Below the key metrics is the week-on-week change which shows the percentage increase or decrease compared to the latest previous week.
 
 
 
