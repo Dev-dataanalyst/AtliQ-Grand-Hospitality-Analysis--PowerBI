@@ -22,7 +22,7 @@ This project exposed me to learning a lot using Microsoft Power BI.
 · Data Modelling
 · Data Visualization
 
-# DATA MODELING
+# DATA MODELING : STAR SCHEMA
 The data model in Power BI consists of five tables:
 
 # dim_date: 
@@ -38,6 +38,9 @@ This modeling produces a one-to-many relationship.
 ![image](https://github.com/Dev-dataanalyst/AtliQ-Grand-Hospitality-Analysis--PowerBI/assets/143479964/e7d6c088-d55c-4a9e-bf75-a0225d6dd844)
 
 
+# ANALYSIS/VISUALIZATION
+
+![image](https://github.com/Dev-dataanalyst/AtliQ-Grand-Hospitality-Analysis--PowerBI/assets/143479964/b26f7e63-98e1-403f-a13d-f4952eeed49d)
 
 
 
