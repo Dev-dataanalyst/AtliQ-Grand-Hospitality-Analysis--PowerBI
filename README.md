@@ -61,6 +61,43 @@ Within the period of three months, the business was able to generate a revenue o
 The chart above shows that there are more guests/customers during weekends (62.64% occupancy) than on weekdays (55.99%). 
 Meanwhile, there’s no significant difference in ADR and Realization on weekdays or weekends.
 
+### In terms of revenue generation, how has our revenue performed across the two room categories during this period?
+
+![image](https://github.com/Dev-dataanalyst/AtliQ-Grand-Hospitality-Analysis--PowerBI/assets/143479964/ba232edd-cf75-4c2b-aa30-dbf278ea81fb)
+
+The above chart shows that rooms in the Luxury category are contributing the majority of the revenue (61.61%). 
+Rooms in the Business category contribute less than forty percent of the total revenue (38.39%).
+
+### Could you pull weekly trends for occupancy? We’ll like to see that concerning Revenue.
+
+![image](https://github.com/Dev-dataanalyst/AtliQ-Grand-Hospitality-Analysis--PowerBI/assets/143479964/13cf07ab-6cdd-4faf-996e-1ab0fcb98285)
+
+This chart shows that RevPar and Occupancy are fluctuating while ADR is constant. 
+RevPar is a by-product of Occupancy, hence the reason for the fluctuation. A constant ADR shows the pricing is relatively fixed.
+
+### What are our best and least performing properties in terms of revenue?
+
+![image](https://github.com/Dev-dataanalyst/AtliQ-Grand-Hospitality-Analysis--PowerBI/assets/143479964/59f43856-ca3d-4baa-b25f-66066a581ab4)
+
+Although there is little difference in the revenue for best-performing and least-performing properties (hotels), 
+Atliq seasons (65M) is performing very poorly in revenue generation.
+
+### We have several booking platforms, can we see how they are all performing?
+
+![image](https://github.com/Dev-dataanalyst/AtliQ-Grand-Hospitality-Analysis--PowerBI/assets/143479964/1244ff4b-b88b-4cbd-92bd-dce5372cc433)
+
+The above chart shows how ADR differs across all platforms with realization. ﻿Across all 7 booking_platform, Realization% ranged from 69.8% to 70.6% and ADR ranged from 12634 to 12791.
+Not major change in Realization and ADR among all platforms but there is Other travel platforms/channels are the primary booking source.
+
+### What about our properties in different cities, is their performance below par?
+
+![image](https://github.com/Dev-dataanalyst/AtliQ-Grand-Hospitality-Analysis--PowerBI/assets/143479964/9aefd3cf-8ca2-4062-8e86-be69df2924a9)
+
+The hotels in Mumbai contribute most of the revenue, followed by  Bangalore, Hyderabad and Delhi respectively.
+
+
+
+
 
 
 
