@@ -99,20 +99,20 @@ The hotels in Mumbai contribute most of the revenue, followed by  Bangalore, Hyd
 
 After analyzing the data, I was able to derive these insights:
 
-Over the period of three months (May, June, and July), AtliQ Grands were able to generate a revenue of approximately 1.7 billion. During this period, RevPar, realization and occupancy increased from the latest previous week, except for revenue which decreased by 0.82%.
+* Over the period of three months (May, June, and July), AtliQ Grands were able to generate a revenue of approximately 1.7 billion. During this period, RevPar, realization and occupancy increased from the latest previous week, except for revenue which decreased by 0.82%.
 
-Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+* Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
 
-AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+* AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
 
-The overall average rating is 3.62. There is a correlation between revenue and average ratings, in that ratings with high ratings tend to generate more revenue.
+* The overall average rating is 3.62. There is a correlation between revenue and average ratings, in that ratings with high ratings tend to generate more revenue.
 
-Weekends consistently exhibit higher occupancy rates than weekdays. There is no significant difference in ADR for weekdays and weekends. This shows that the hotel is using a flat pricing strategy.
+* Weekends consistently exhibit higher occupancy rates than weekdays. There is no significant difference in ADR for weekdays and weekends. This shows that the hotel is using a flat pricing strategy.
 
-Other travel platforms/channels are the primary booking source, generating 40% of total bookings and revenue. Direct online booking contributes the least to bookings and revenue generation, with 5%.
+* Other travel platforms/channels are the primary booking source, generating 40% of total bookings and revenue. Direct online booking contributes the least to bookings and revenue generation, with 5%.
 The Average Daily(ADR) Rate is higher on direct offline (hotel premises) compared to other booking platforms.
 
-The Luxury room category contributes the majority of revenue and bookings. 
+* The Luxury room category contributes the majority of revenue and bookings. 
 
 
 ### RECOMMENDATIONS
