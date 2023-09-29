@@ -43,5 +43,21 @@ This modeling produces a one-to-many relationship.
 ![image](https://github.com/Dev-dataanalyst/AtliQ-Grand-Hospitality-Analysis--PowerBI/assets/143479964/b26f7e63-98e1-403f-a13d-f4952eeed49d)
 
 
+From the dashboard, the key metrics are at the top.
+
+Note: #### RevPar -Revenue Per Available Room, DSRN - Daily Sellable Room Nights/per night, ADR - Average Daily Rate/Amount per room, DBRN -Daily Booked Room Nights/per night, and DURN - Daily Booked Room Nights/per night, Realization% - The ratio of utilized rooms and booked rooms per night, Occupancy% - Total number of occupied rooms out of the available.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
