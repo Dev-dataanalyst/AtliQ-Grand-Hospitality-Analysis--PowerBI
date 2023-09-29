@@ -54,8 +54,12 @@ Note: RevPar -Revenue Per Available Room, DSRN - Daily Sellable Room Nights/per 
 
 Within the period of three months, the business was able to generate a revenue of 1.71 billion. The occupancy rate across all locations is slightly above 50%,(57.9%). This means that on average, at least 50% of the rooms are utilized daily. The average selling price for a room is 12.69K while RevPar equals 7,347. Below the key metrics is the week-on-week change which shows the percentage increase or decrease compared to the latest previous week.
 
+### Is there any significant difference in occupancy for weekends and weekdays? Does this have any impact on the pricing?
 
+![image](https://github.com/Dev-dataanalyst/AtliQ-Grand-Hospitality-Analysis--PowerBI/assets/143479964/5eedf863-c187-445f-90f2-733a16c0378c)
 
+The chart above shows that there are more guests/customers during weekends (62.64% occupancy) than on weekdays (55.99%). 
+Meanwhile, there’s no significant difference in ADR and Realization on weekdays or weekends.
 
 
 
