@@ -27,9 +27,12 @@ The data model in Power BI consists of five tables:
 
 # dim_date: 
 Contains full date information about dates including day type (weekend or weekday), month, and week number (W19 — W32). 
-# dim_hotels: Stores identity number of the hotel, property name, category it belongs to (luxury/business), and the city it’s located. dim_rooms: Includes room id and room class. 
-# fact_bookings: Stores information about bookings including booking dates, booking platforms, number of guests, revenue, check-in, and checkout dates. 
-# fact_aggregrated_bookings: Includes successful bookings, hotel id, and capacity. The dimension tables (with the prefix “dim”) have a matching id in the fact tables (with the prefix “fact”). 
+# dim_hotels: 
+Stores identity number of the hotel, property name, category it belongs to (luxury/business), and the city it’s located. dim_rooms: Includes room id and room class. 
+# fact_bookings: 
+Stores information about bookings including booking dates, booking platforms, number of guests, revenue, check-in, and checkout dates. 
+# fact_aggregrated_bookings: 
+Includes successful bookings, hotel id, and capacity. The dimension tables (with the prefix “dim”) have a matching id in the fact tables (with the prefix “fact”). 
 This modeling produces a one-to-many relationship.
 
 ![image](https://github.com/Dev-dataanalyst/AtliQ-Grand-Hospitality-Analysis--PowerBI/assets/143479964/e7d6c088-d55c-4a9e-bf75-a0225d6dd844)
