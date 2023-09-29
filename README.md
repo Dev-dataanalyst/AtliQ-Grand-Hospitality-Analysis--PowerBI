@@ -12,5 +12,4 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 To provide AtliQ Grands with insights from their historical data to regain their market share and revenue.
 
 # DATA SOURCING
-The dataset used for this analysis was collected from Code Basics’ website. You can access the dataset through this [link]([url](https://codebasics.io/challenge/codebasics-resume-project-challenge/4)https://codebasics.io/challenge/codebasics-resume-project-challenge/4)
-
+The dataset used for this analysis was collected from Code Basics’ website. You can access the dataset through this [https://codebasics.io/challenge/codebasics-resume-project-challenge/4](url)
