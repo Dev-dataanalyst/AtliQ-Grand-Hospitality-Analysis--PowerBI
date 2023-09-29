@@ -12,4 +12,30 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 To provide AtliQ Grands with insights from their historical data to regain their market share and revenue.
 
 # DATA SOURCING
-The dataset used for this analysis was collected from Code Basics’ website. You can access the dataset through this [https://codebasics.io/challenge/codebasics-resume-project-challenge/4](url)
+The dataset used for this analysis was collected from Code Basics’ website.
+
+# SKILLS DEMONSTRATED
+This project exposed me to learning a lot using Microsoft Power BI.
+· Multiple complex DAX formulas and Functions.
+· Calculated columns
+· Data Extraction, Cleaning, and Transformation (ETL)
+· Data Modelling
+· Data Visualization
+
+# DATA MODELING
+The data model in Power BI consists of five tables:
+
+# dim_date: 
+Contains full date information about dates including day type (weekend or weekday), month, and week number (W19 — W32). 
+# dim_hotels: Stores identity number of the hotel, property name, category it belongs to (luxury/business), and the city it’s located. dim_rooms: Includes room id and room class. 
+# fact_bookings: Stores information about bookings including booking dates, booking platforms, number of guests, revenue, check-in, and checkout dates. 
+# fact_aggregrated_bookings: Includes successful bookings, hotel id, and capacity. The dimension tables (with the prefix “dim”) have a matching id in the fact tables (with the prefix “fact”). 
+This modeling produces a one-to-many relationship.
+
+![image](https://github.com/Dev-dataanalyst/AtliQ-Grand-Hospitality-Analysis--PowerBI/assets/143479964/e7d6c088-d55c-4a9e-bf75-a0225d6dd844)
+
+
+
+
+
+
